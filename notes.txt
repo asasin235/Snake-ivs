@@ -1,0 +1,17 @@
+Snake Game Todo
+
+-[] Create Board
+    -[] Matrix Representation
+-[] Create Snake
+    -[] Using snake as a single LL
+    -[] Handle Snake Growth
+    -[] Handle Snake Direction reversal
+-[] Styles
+    -[] Snake Cells
+    -[] Food Cells
+-[] Handle Keypress
+-[] Handle Movements
+-[] Handle good consumption
+-[] Handle Death
+-[] Handle score
+-[] Handle Game start and reset
